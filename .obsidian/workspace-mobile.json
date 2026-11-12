@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b7a9c5db1bab8f22",
+    "id": "7dbb9fbc51b9ca52",
     "type": "split",
     "children": [
       {
-        "id": "ff22d30e352059c5",
+        "id": "de8189c87c3bfa04",
         "type": "tabs",
         "children": [
           {
-            "id": "64f69a899a6e049c",
+            "id": "e4d144c4bb077b5f",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -26,11 +26,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "553329a4a5ccd637",
+    "id": "1429a9361c0b309c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2c5d500c013f904d",
+        "id": "da2368a5346916ae",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -45,7 +45,7 @@
         }
       },
       {
-        "id": "9c5785004052883c",
+        "id": "7d7c619ef553090e",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -62,7 +62,7 @@
         }
       },
       {
-        "id": "c4c777bacde6bff4",
+        "id": "4becd21226b03afb",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -77,7 +77,7 @@
         }
       },
       {
-        "id": "4e28c52bbb0ac228",
+        "id": "6bf750d98ec6b582",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -91,7 +91,7 @@
         }
       },
       {
-        "id": "e025dcd12e278eb1",
+        "id": "2f15f109381fb84b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -107,11 +107,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "746899e4404e1e32",
+    "id": "131b5544052946bd",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "78e0f5a775d0bfb7",
+        "id": "6951f016f24b4b9f",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -130,7 +130,7 @@
         }
       },
       {
-        "id": "58649770d3b642b3",
+        "id": "ede4cb169d875835",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -144,7 +144,7 @@
         }
       },
       {
-        "id": "fabca8570aa12132",
+        "id": "0781db412b4e6495",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -172,8 +172,6 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "64f69a899a6e049c",
-  "lastOpenFiles": [
-    "Без названия.base"
-  ]
+  "active": "e4d144c4bb077b5f",
+  "lastOpenFiles": []
 }
