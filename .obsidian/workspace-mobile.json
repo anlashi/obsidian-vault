@@ -11,14 +11,10 @@
             "id": "79490faf22ec7462",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -175,5 +171,7 @@
     }
   },
   "active": "79490faf22ec7462",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Без названия.md"
+  ]
 }
